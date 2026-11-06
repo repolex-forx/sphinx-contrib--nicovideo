@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/nicovideo/commit/445356bd361be8e8484b7cb430ce24ccc4e8f3e1",
       "git:hexsha": "445356bd361be8e8484b7cb430ce24ccc4e8f3e1",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.1.1"
     },
     {
