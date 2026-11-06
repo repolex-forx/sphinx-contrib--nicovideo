@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-contrib",
+  "repo": "nicovideo",
+  "versions": [
+    {
+      "commit": "445356bd361be8e8484b7cb430ce24ccc4e8f3e1",
+      "parsed_at": "2026-11-06T08:51:50.987179+00:00",
+      "tag": "0.1.1",
+      "filetree": "filetree/445356bd361be8e8484b7cb430ce24ccc4e8f3e1.nq.gz",
+      "blobs": [
+        "blob/d32cd62888168389a8e7e6a3e47753289654d0fa.nq.gz",
+        "blob/2eba9160d403563d8b100534a4d950281de057e6.nq.gz",
+        "blob/8a07c3b9b7c06e2e12d3a65c96d7236971ebae30.nq.gz",
+        "blob/0824c0f446042d5faf069fcfe628a98b51980343.nq.gz",
+        "blob/35d34fc53bde73a52472b7e1cfce9b183d7aaa66.nq.gz",
+        "blob/617a529ff95d9c82a05ae23c053dbcf7970e769d.nq.gz",
+        "blob/45dd5f5b51e10661a6b6699e050c4ab23d721804.nq.gz",
+        "blob/8e7e2bc0d26ebc39199523caf9850ff62f3d650a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
